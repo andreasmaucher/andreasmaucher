@@ -39,15 +39,6 @@ At 42, we build standard system tools from scratch to understand exactly how the
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=dracula&hide_border=true" alt="stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=dracula&hide_border=true" alt="languages" height="150" />
-</div>
-
----
-
 ### 📫 Connect with Me
 
 * **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/andreasmaucher)
