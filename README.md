@@ -40,4 +40,4 @@ At 42, we build standard system tools from scratch to understand exactly how the
 
 ### 📫 Connect with Me
 
-* **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/andreasmaucher)
+* **LinkedIn**: [linkedin.com/in/andreasmaucher](https://linkedin.com/in/andreasmaucher)
