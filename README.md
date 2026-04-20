@@ -1,6 +1,6 @@
 ### Software Engineer | 42 Berlin Graduate
 
-I am a software engineer based in **Berlin**, having recently completed the rigorous Core Curriculum at **42 Berlin**. My training focused on deep-dive C/C++ programming, algorithm optimization, and Unix system architecture without relying on external libraries. 
+I am a software engineer based in **Berlin**, having recently completed the Core Curriculum at **42 Berlin**. My training focused on deep-dive C/C++ programming, algorithm optimization, and Unix system architecture.
 
 ---
 
