@@ -29,14 +29,8 @@ At 42, we build standard system tools from scratch to understand exactly how the
 | :--- | :--- | :--- |
 | **ft_transcendence** | A full-stack SPA Pong tournament website. | `OAuth2` `Real-time Websockets` `PostgreSQL` |
 | **Minishell** | A custom Bash implementation built from scratch. | `Process Management` `Signal Handling` `Parsers` |
-| **Cub3D** | A 3D game engine using Raycasting (Wolfenstein 3D style). | `Graphics` `Raycasting Algorithms` `Linear Algebra` |
-| **Philosophers** | A solution to the Dining Philosophers problem. | `Concurrency` `Mutexes` `Threads` `Deadlock Prevention` |
 | **Webserv** | A fully functional HTTP/1.1 Web Server written in C++. | `HTTP Protocol` `Non-blocking I/O` `Socket Programming` |
 | **Inception** | System administration using Docker containers. | `Docker Compose` `Virtualization` `Nginx` `WordPress` |
-| **Push_swap** | Highly optimized data sorting algorithm. | `Complexity Analysis` `Sorting Algorithms` `Stack Manipulation` |
-| **Libft** | My own C library re-creating standard C functions. | `Memory Management` `Pointers` `Data Structures` |
-
----
 
 ### 📫 Connect with Me
 
