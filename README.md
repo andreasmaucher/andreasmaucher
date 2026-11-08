@@ -1,6 +1,6 @@
-### Software Engineer | 42 Berlin Graduate
+### Hi, I'm Andreas 👋
 
-I am a software engineer based in **Berlin**, having recently completed the Core Curriculum at **42 Berlin**. My training focused on deep-dive C/C++ programming, algorithm optimization, and Unix system architecture.
+I started my career in finance, working in FP&A and group consolidation, before learning software engineering at 42 Berlin. Today I combine both, with a focus on data, automation and applied AI for finance
 
 ---
 
@@ -21,9 +21,9 @@ I am a software engineer based in **Berlin**, having recently completed the Core
 
 ---
 
-### 🚀 Engineering Highlights (42 Core)
+### 💻 Engineering Highlights (42 Core)
 
-At 42, we build standard system tools from scratch to understand exactly how they work under the hood.
+At 42 Berlin, I built core software from scratch, including a shell, a web server and a full-stack web app, to understand how it works under the hood.
 
 | Project | Description | Key Concepts |
 | :--- | :--- | :--- |
